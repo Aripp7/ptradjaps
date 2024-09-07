@@ -709,6 +709,7 @@ progress {
 .img-fluid {
   max-width: 100%;
   height: auto;
+  transform: rotateX(180deg);
 }
 
 .img-thumbnail {
